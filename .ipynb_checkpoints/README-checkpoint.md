@@ -6,7 +6,7 @@ Team members:
 3. Violet Dunn, vid56@pitt.edu
 
    
-Project Description: For our final project we searched for the best neighborhood in PIttsburgh to commit Arson by looking for higher densities of fire incidents and low densities of Asbestos permits and arrests.
+Project Descrption: For our final project we searched for the best neighborhood in PIttsburgh to commit Arson by looking for higher densities of fire incidents and low densities of Asbestos permits and arrests.
 
 # Datasets used:
 Fire Incidents:
@@ -23,8 +23,3 @@ Arrests:
 Keeps track of all the arrests in the Pittsburgh area. Provided us the neighborhood.
 
 https://data.wprdc.org/dataset/arrest-data
-
-Neighborhood:
-List of all pittsburgh neighborhoods
-
-https://data.wprdc.org/dataset/neighborhoods2/resource/668d7238-cfd2-492e-b397-51a6e74182ff
